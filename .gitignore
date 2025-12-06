@@ -211,3 +211,6 @@ data/
 
 # Output models
 output/
+
+# IDE
+.vscode
