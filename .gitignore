@@ -212,5 +212,8 @@ data/
 # Output models
 output/
 
+# Local report text conversion (PDF is the canonical artifact)
+/raport_widzenie.txt
+
 # IDE
 .vscode
