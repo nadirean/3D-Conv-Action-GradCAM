@@ -1,5 +1,7 @@
 # 3D-Conv-Action-GradCAM
 
+*Course: Computer Vision · AGH University of Science and Technology*
+
 Skeleton-based exercise recognition with a 3D CNN, plus Grad-CAM interpretability analysis.
 The model classifies 16 exercise types from YOLO-pose skeleton keypoint sequences; Grad-CAM
 heatmaps verify that predictions are driven by biomechanically relevant joints and motion
